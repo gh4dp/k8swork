@@ -1,0 +1,12 @@
+{
+  "name": "0001-nodejs-cicd",
+  "version": "1.0.0",
+  "description": "Test of CICD on K8s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhimant Patel",
+  "license": "ISC"
+}
